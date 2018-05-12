@@ -21,6 +21,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/523
     wikipedia: http://en.wikipedia.org/wiki/Thomas_Carlyle
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/13435#On-the-Choice-of-Books
 gutenberg_issued: '2004-09-11'
 gutenberg_type: Text
 identifiers:
